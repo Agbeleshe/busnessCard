@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    background-color:rgb(19, 18, 18);
+}
+
+.icon{
+    margin-right: 10px;
+}
+
+.btn{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.email-btn{
+    background-color: white;
+    color: black;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.email-btn:hover{
+    background-color: white;
+    color: rgb(7, 193, 226);
+    margin-right: 10px;
+    transition: all ease 0.5s;
+}
+
+.linkedin-btn{
+    background-color: rgb(21, 184, 224);
+    color: white;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.linkedin-btn:hover{
+    background-color: rgb(21, 184, 224);
+    color: rgb(0, 0, 0);
+    margin-right: 10px;
+    margin-top: 20px;
+    transition: all ease 0.5s;
+}
+
+.linkedin-btn:active{
+    background-color: white;
+    color: black;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.email-btn:active{
+    background-color: rgb(8, 97, 119);
+    color: white;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.container{
+    background-color:#23252C;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 20%;
+    width: 550px;
+    height: 868px;
+    text-align: center;
+    padding: 44px 117px 44px 116px;
+    margin-bottom: 20px;
+}
+
+.sub-container{
+    width: 317px;
+    left: 117px;
+    top: 361px;
+    background: #1A1B21;
+    margin-left: 20%;
+    height: 868px;
+    border-radius: 10px
+}
+
+i:hover{
+    color: white;
+    transition: all ease 0.5s;
+}
+
+.content{
+    margin-top: 20px;
+    padding: 50px;
+    text-align: left;
+    color: white;
+}
+
+.profile{
+    Width:317px;
+    Height:317px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.username {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: white;
+    margin-top: 21px;
+}
+
+.email{
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.stack{
+    font-size: 12.8px;
+    line-height: 15px;
+    color:#F3BF99;
+    margin-top: 10px;
+}
+
+.about-content{
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+.about-header{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.intrest-content{
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+
+.intrest-header{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.footer{
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    padding: 10px 0px 10px 0px;
+    color: #918E9B;;
+    font-size: 25px;
+    text-align: none;
+}
+
+.i{
+    margin-right: 20px;
+}
